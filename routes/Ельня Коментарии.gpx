@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<wpt lat="55.572971" lon="27.816203">
+		<name>Удобный вход в воду</name>
+	</wpt>
+	<wpt lat="55.571691" lon="27.817592">
+		<name>Конец настила</name>
+	</wpt>
+	<wpt lat="55.546337" lon="27.868098">
+		<name>Рованя поляна в лесу</name>
+	</wpt>
+	<wpt lat="55.546546" lon="27.868495">
+		<name>Обустроеный лагерь сборщиков</name>
+	</wpt>
+	<wpt lat="55.538376" lon="27.857932">
+		<name>Большая поляна на берегу</name>
+	</wpt>
+	<wpt lat="55.537137" lon="27.857777">
+		<name>Тропа у самой воды</name>
+	</wpt>
+	<wpt lat="55.527440" lon="27.855878">
+		<name>Поле багульника</name>
+	</wpt>
+	<wpt lat="55.532857" lon="27.858238">
+		<name>Молодой лес</name>
+	</wpt>
+	<wpt lat="55.525983" lon="27.850878">
+		<name>Слабопроходимый заболоченый лес</name>
+	</wpt>
+	<wpt lat="55.539219" lon="27.842188">
+		<name>Сухое болото (толстый слой мха без воды)</name>
+	</wpt>
+	<wpt lat="55.543299" lon="27.828240">
+		<name>Красивый вид на Белое озеро</name>
+	</wpt>
+	<wpt lat="55.592558" lon="27.804337">
+		<name>Поле для ночевки и стоянки авто</name>
+	</wpt>
+	<wpt lat="55.530185" lon="27.850084">
+		<name>Густой лес, много бурелома</name>
+	</wpt>
+	<wpt lat="55.534997" lon="27.858882">
+		<name>Тропа</name>
+	</wpt>
+	<wpt lat="55.535027" lon="27.858179">
+		<name>Тропа</name>
+	</wpt>
+	<wpt lat="55.537265" lon="27.856640">
+		<name>По азимуту</name>
+	</wpt>
+	<wpt lat="55.526857" lon="27.854869">
+		<name>Обе тропы в лес по азимуту</name>
+	</wpt>
+</gpx>

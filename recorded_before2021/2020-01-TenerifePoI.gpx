@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 3.4.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="28.1897755" lon="-16.6645012">
+    <name>Área de Acampada Las Lajas</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Area de Acampada Las Lajas: tourism:camp_site</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.3425369" lon="-16.8566113">
+    <name>Área de Acampada Los Pedregales</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Area de Acampada Los Pedregales: tourism:camp_site</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.319409" lon="-16.7556953">
+    <name>Arenas Negras</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.4173283" lon="-16.5508691">
+    <name>Calle de la Marina, Puerto de la Cruz</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.5375097" lon="-16.3764279">
+    <name>Camino la Costa (Tejina), San Cristóbal de La Laguna</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2663999" lon="-16.7598176">
+    <name>camp can be here</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.5712654" lon="-16.3317561">
+    <name>Camping Punta del Hidalgo</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Camping Punta del Hidalgo: tourism:camp_site</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.0792359" lon="-16.7222005">
+    <name>Chillix hostel</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2648987" lon="-16.7507922">
+    <name>Chio</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.0800368" lon="-16.727972">
+    <name>Costa Adeje</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.5315051" lon="-16.2799573">
+    <name>Cruz del Carmen</name>
+    <type>Tenerife</type>
+    <cmt>TransportStop:Cruz del Carmen</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.4675598" lon="-16.2528572">
+    <name>Decathlon city tenerife</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Decathlon city tenerife: shop:sports</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.216582" lon="-16.6122937">
+    <name>Guajara</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.3150165" lon="-16.4099479">
+    <name>Güímar</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Guimar: administrative:town</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.4670313" lon="-16.2497878">
+    <name>Hotel Atlántico</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Hotel Atlantico: sustenance:restaurant</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.1586221" lon="-16.6362083">
+    <name>Hotel Rural Vilaflor</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Hotel Rural Vilaflor: tourism:hotel</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.4592217" lon="-16.2516975">
+    <name>Intercambiador de Transportes</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Intercambiador de Transportes: man_made:building</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.480348" lon="-16.3171005">
+    <name>Intercambiador Laguna</name>
+    <type>Tenerife</type>
+    <cmt>TransportStop:Intercambiador Laguna</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.3052453" lon="-16.8404638">
+    <name>Masca</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2384926" lon="-16.6982961">
+    <name>Mirador de las Narices del Teide</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Mirador de las Narices del Teide: tourism:viewpoint</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2946369" lon="-16.7567253">
+    <name>Montana Cjinyero</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.3159622" lon="-16.7645359">
+    <name>Montana Negra</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.1910055" lon="-16.6039305">
+    <name>Paisaje Lunar</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.224474" lon="-16.6269703">
+    <name>Parador de Las Cañadas del Teide</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Parador de Las Canadas del Teide: man_made:building</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2727504" lon="-16.6423559">
+    <name>Pico del Teide</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Pico del Teide: natural:peak</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2639248" lon="-16.6646826">
+    <name>Pico Viejo</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Pico Viejo: natural:volcano</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.3221568" lon="-16.4130378">
+    <name>Pirámides de Güímar</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Piramides de Guimar: tourism:archaeological_site</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.295501" lon="-16.5661919">
+    <name>Portillo Alto</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Portillo Alto: administrative:hamlet</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2741488" lon="-16.6293633">
+    <name>Refugio de Altavista</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Refugio de Altavista: tourism:alpine_hut</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2231806" lon="-16.6307365">
+    <name>Roques de garcia</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2265167" lon="-16.6348877">
+    <name>Roques de García</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Roques de Garcia: natural:cliff</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.2957371" lon="-16.8144786">
+    <name>Santiago del Teide</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Santiago del Teide: administrative:town</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.0452482" lon="-16.5744209">
+    <name>Tenerife South</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.3433016" lon="-16.8768453">
+    <name>Teno</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.158897" lon="-16.6375064">
+    <name>Vilaflor</name>
+    <type>Tenerife</type>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+  <wpt lat="28.3405914" lon="-16.4615536">
+    <name>Volcan de Arafo</name>
+    <type>Tenerife</type>
+    <cmt>Amenity:Volcan de Arafo: natural:volcano</cmt>
+    <extensions>
+      <color>#b4ff5020</color>
+    </extensions>
+  </wpt>
+</gpx>

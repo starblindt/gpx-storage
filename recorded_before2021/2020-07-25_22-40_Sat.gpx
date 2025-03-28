@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 3.7.4" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2020-07-25_22-40_Sat</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="51.8103005" lon="27.3269005">
+        <ele>130.4</ele>
+        <time>2020-07-25T19:40:55Z</time>
+        <hdop>2.5</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
